@@ -426,7 +426,7 @@ img{
 	transition: all 0.3s ease;
 }
 .nav-menu ul li a.active{
-	color:var(--skin-color);
+	color:Light Purple Blue;
 }
 .nav-menu ul li a:after{
 	border-radius:15px;
@@ -523,7 +523,7 @@ img{
 	border-radius: 50%;
 }
 .about-section .about-img .social-links a:hover{
-	color:var(--skin-color);
+	color:Light Purple Blue
 }
 .about-section .about-img .img-box{
 	padding:10px;
