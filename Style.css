@@ -1184,7 +1184,7 @@ img{
 .testimonial-section .testi-slider-nav span{
 	height: 40px;
 	width: 40px;
-	color: var(--skin-color);
+	color: Light Purple Blue;
 	display: inline-block;
 	font-size: 20px;
 	cursor: pointer;
@@ -1221,7 +1221,7 @@ img{
 }
 .contact-section .contact-item-inner i{
 	font-size: 25px;
-	color: var(--skin-color);
+	color: Light Purple Blue;
 }
 .contact-section .contact-item-inner span{
     display: block;
@@ -1282,7 +1282,7 @@ img{
 	padding:10px 25px;
 	font-size: 16px;
 	font-weight: 500;
-	color:var(--skin-color);
+	color:Light Purple Blue;
 	background-color: transparent;
 	line-height: 1.5;
 	cursor: pointer;
