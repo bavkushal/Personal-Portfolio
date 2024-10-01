@@ -217,8 +217,8 @@ img{
 	display: block;
 	font-size: 16px;
 	font-weight: 600;
-/* 	color: var(Light Purple Blue); */
-	color:red;
+	color: var(Light Purple Blue);
+	
 }
 .section.hide{
 	display: none;
