@@ -1004,7 +1004,7 @@ img{
 	font-weight: 400;
 }
 .portfolio-popup .info ul li a{
-	color: var(--skin-color);
+	color: var(Light Purple Blue);
 }
 .portfolio-popup .info ul li:last-child{
 	margin-bottom: 0;
