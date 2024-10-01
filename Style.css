@@ -172,7 +172,7 @@ img{
 .effect-3{
 	height:180px;
 	width: 180px;
-	border:25px solid var(--skin-color);
+	border:25px solid rgb(104, 180, 246);
 	border-radius: 50%;
 	margin-left:500px;
 	margin-right: 500px;
