@@ -294,7 +294,7 @@ img{
 	font-size: 24px;
 	color:Light Purple Blue;
 	border-radius: 50%;
-	border:2px solid var(--skin-color);
+	border:2px solid var(Light Purple Blue);
 	font-weight: 600;
 	/*text-transform: uppercase;*/
 	/*background-color: violet;*/
