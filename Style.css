@@ -578,7 +578,7 @@ img{
 	opacity: 0.6;
 }
 .about-section .about-tabs .tab-item.active{
-	color:var(--skin-color);
+	color:Light Purple Blue;
 }
 .about-section .tab-content{
 	flex: 0 0 100%;
@@ -685,7 +685,7 @@ img{
 	background-color: var(--bg-black-50);
 	font-size: 16px;
 	border-radius: 50%;
-	color: var(--skin-color) ;
+	color: Light Purple Blue ;
 	line-height: 40px;
 	position: absolute;
 	top: 18px;
@@ -698,7 +698,7 @@ img{
 }
 .about-section .timeline .timeline-item-inner span{
     font-weight: 500;
-    color: var(--skin-color);
+    color: Light Purple Blue;
     display: block;
     margin: 0 0 10px;
     text-transform: capitalize;
@@ -774,7 +774,7 @@ img{
 	transition: all 0.3s ease;
 }
 .service-section .service-item-inner:hover .icon i{
-	 color: var(--skin-color);
+	 color: Light Purple Blue;
 }
 .service-section .service-item-inner .icon h3{
 	font-size: 20px;
@@ -820,7 +820,7 @@ img{
 	opacity: 0.6;	
 }
 .portfolio-section .filter-item.active{
-	color: var(--skin-color);
+	color: Light Purple Blue;
 }
 .portfolio-section .portfolio-item{
 	flex: 0 0 33.33%;
@@ -858,7 +858,7 @@ img{
 	text-transform: capitalize;
 	font-size: 16px;
 	font-weight:500;
-	color: var(--skin-color);
+	color: Light Purple Blue;
 	transition: all 0.3s ease;
 	position: absolute;
 	left: 0;
@@ -922,7 +922,7 @@ img{
 .portfolio-popup .pp-loader div{
 	height: 40px;
 	width: 40px;
-	border: 3px solid var(--skin-color);
+	border: 3px solid Light Purple Blue;
 	border-radius: 50%;
 	border-right: 3px solid transparent;
 	animation: spin 2s linear infinite;
